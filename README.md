@@ -34,4 +34,4 @@ The analysis employs Python for data processing and exploratory analysis, utiliz
 The repository contains the following deliverables:
 
 + [Python Code](<ClimateWins Scripts>): Scripts used for data analysis.
-+ [Interim Presentation](<ClimatWins Reports>): An interim presentation providing analysis methods, visualizations, and model recommendations.
++ [Interim Presentation](<ClimateWins Reports>): An interim presentation providing analysis methods, visualizations, and model recommendations.
