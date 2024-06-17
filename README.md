@@ -6,9 +6,11 @@ Climate Wins, a European nonprofit organization dedicated to understanding and m
 ## Project Objectives
 The analysis aims to adress several key questions to aid ClimateWins objective:
 
-+ Predict Weather Conditions: Develop models to predict whether weather conditions will be favorable on a certain day.
-+ Analyze Climate Trends: Identify and analyze trends in temperature and extreme weather events over the past several decades.
-+ Model Performance Evaluation: Evaluate the performance of different machine learning models in predicting weather conditions and identifying climate patterns.
++ Finding new patterns in weather changes over the last 60 years.
++ Identifying weather patterns outside the regional norm in Europe.
++ Determining whether unusual weather patterns are increasing.
++ Generating possibilities for future weather conditions over the next 25 to 50 years based on current trends.
++ Determining the safest places for people to live in Europe within the next 25 to 50 years.
 
 ## Data
 The data used by ClimateWins is the European Climate Assessment and Dataset (ECA&D), collected and funded by the Royal Netherlands Meteorological Institute (KNMI). The ECA&D includes a wide range of weather information, such as temperature, precipitation, wind speed, and humidity, from 18 weather stations across Europe. It spans multiple decades, enabling detailed analysis of historical weather patterns and trends. The data from the ECA&D is meticulously collected and validated by the KNMI to ensure high accuracy and reliability. The weather stations are strategically located across Europe, providing a representative sample of the continent's diverse climate conditions. 
@@ -35,3 +37,4 @@ The repository contains the following deliverables:
 
 + [Python Code](<ClimateWins Scripts>): Scripts used for data analysis.
 + [Interim Presentation](<ClimateWins Reports>): An interim presentation providing analysis methods, visualizations, and model recommendations.
++ : A final presentation providing model analysis and future recommendations.
