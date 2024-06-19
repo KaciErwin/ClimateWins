@@ -16,25 +16,27 @@ The analysis aims to adress several key questions to aid ClimateWins objective:
 The data used by ClimateWins is the European Climate Assessment and Dataset (ECA&D), collected and funded by the Royal Netherlands Meteorological Institute (KNMI). The ECA&D includes a wide range of weather information, such as temperature, precipitation, wind speed, and humidity, from 18 weather stations across Europe. It spans multiple decades, enabling detailed analysis of historical weather patterns and trends. The data from the ECA&D is meticulously collected and validated by the KNMI to ensure high accuracy and reliability. The weather stations are strategically located across Europe, providing a representative sample of the continent's diverse climate conditions. 
 
 ## Methodology
-The methodology for this analysis includes:
+This project employs a range of machine learning techniques to assess climate variability and predict future weather conditions. 
 
-+ Data Preprocessing:
-  + Variables were scaled using standardization techniques.
-  + Data was split into testing and training data.
-  + Data was segmented for comparision of models fit to both simple and compley datasets. 
-+ Model Development:
-  + Gradient Descent Optimization
-  + K-Nearest Neighbors
-  + Desicion Tree
-  + Aritificial Neural Network
-+ Model Evaluation and Refinement:
-  + The models' performance was evaluated on both training and testing data
-  + Cross-validation techniques were used to ensure robustness and reliability of the model evaluation.
-  + Models were assessed for signs of overfitting or underfitting, and adjustments were made to balance complexity and generalizability.
+Machine Learning Techniques
++ Supervised Learning
+  + Linear Regression: Identify trends in temperature changes over time.
+  + K-Nearest Neighbors: Classify weather patterns.
+  + Decision Tree: Classify weather patterns and predict extreme weather events. 
+  + Random Forest: Identify key locations and climate variables that contribute most to data variance
++ Unsupervised Learning
+  + Principal Component Analysis: Identify the most influential variables to the data patterns.
+  + Hierarchical Clustering: Group similar weather patterns and identify anomalies.
+  + Convolutional Neural Network: Analyze spatial and temporal patterns in weather data.
+
+Tools and Technologies
++ Python: Primary programming language used for data analysis and machine learning.
++ Scikit-learn: Machine learning library for implementing standard algorithms.
++ TensorFlow: Performing neural architecture searches.
 
 ## Deliverables
 The repository contains the following deliverables:
 
 + [Python Code](<ClimateWins Scripts>): Scripts used for data analysis.
 + [Interim Presentation](<ClimateWins Reports>): An interim presentation providing analysis methods, visualizations, and model recommendations.
-+ : A final presentation providing model analysis and future recommendations.
++ [Final Presentation] : A final presentation providing model analysis and future recommendations.
