@@ -38,5 +38,4 @@ Tools and Technologies
 The repository contains the following deliverables:
 
 + [Python Code](<ClimateWins Scripts>): Scripts used for data analysis.
-+ [Interim Presentation](<ClimateWins Reports/ClimateWins Interim Report.pdf>): An interim presentation providing analysis methods, visualizations, and model recommendations.
-+ [Final Presentation](<ClimateWins Reports/ClimateWins Report.pdf>) : A final presentation providing model analysis and future recommendations.
++ [Final Presentation](<ClimateWins Reports/ClimateWins Report.pdf>) : A final presentation providing analysis methods, visualizations, and model recommendations.
